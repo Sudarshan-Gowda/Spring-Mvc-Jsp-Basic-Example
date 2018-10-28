@@ -13,7 +13,7 @@ public class StarLoginController {
 	public String getLoginPage(Model model) {
 
 		model.addAttribute("welcomeMessage",
-				"This is the Basic Example of Displaying Hello World...............");
+				"This is the Basic Example of Displaying Hello World.");
 		return "login/home";
 	}
 

@@ -1,4 +1,4 @@
-# basic-example-of-displaying-messge-using-spring-jsp
+# Spring Mvc with Jsp Basic Example
 
 This Repository includes displaying basic message using Spring MVC and JSP
 

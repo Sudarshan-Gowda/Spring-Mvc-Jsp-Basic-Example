@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Spring MVC + JSP</title>
-
+<link rel="shortcut icon" href="resources/images/sudarshan-logo.png" />
 <link rel="stylesheet" href="resources/css/lib/bootstrap.css"
 	type="text/css">
 <link rel="stylesheet" href="resources/css/lib/font-awesome.min.css"

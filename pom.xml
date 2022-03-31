@@ -8,7 +8,7 @@
 	<!-- @Author Sudarshan -->
 	<properties>
 		<servlet.version>2.5</servlet.version>
-		<spring-framework.version>4.0.4.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.18</spring-framework.version>
 	</properties>
 
 	<dependencies>
